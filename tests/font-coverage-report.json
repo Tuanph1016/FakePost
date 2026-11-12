@@ -1,0 +1,121 @@
+[
+  {
+    "id": "be-vietnam-pro-400-italic",
+    "glyphCount": 459,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "be-vietnam-pro-700-italic",
+    "glyphCount": 459,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "be-vietnam-pro-400-normal",
+    "glyphCount": 459,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "be-vietnam-pro-500-normal",
+    "glyphCount": 459,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "be-vietnam-pro-600-normal",
+    "glyphCount": 459,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "be-vietnam-pro-700-normal",
+    "glyphCount": 459,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-emoji-400-normal",
+    "glyphCount": 1512,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-emoji-700-normal",
+    "glyphCount": 1512,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-sans-jp-400-normal",
+    "glyphCount": 16732,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-sans-jp-600-normal",
+    "glyphCount": 16732,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-sans-jp-700-normal",
+    "glyphCount": 16732,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-sans-kr-400-normal",
+    "glyphCount": 23174,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 11172,
+    "sal": true
+  },
+  {
+    "id": "noto-sans-kr-600-normal",
+    "glyphCount": 23174,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 11172,
+    "sal": true
+  },
+  {
+    "id": "noto-sans-kr-700-normal",
+    "glyphCount": 23174,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 11172,
+    "sal": true
+  },
+  {
+    "id": "noto-sans-sc-400-normal",
+    "glyphCount": 30890,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-sans-sc-600-normal",
+    "glyphCount": 30890,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  },
+  {
+    "id": "noto-sans-sc-700-normal",
+    "glyphCount": 30890,
+    "metadataMatchesFont": true,
+    "hangulSyllables": 0,
+    "sal": false
+  }
+]
